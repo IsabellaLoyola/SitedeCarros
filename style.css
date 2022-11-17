@@ -1,0 +1,218 @@
+ul{
+	text-align: center;
+}
+
+p{
+	font-size: 14px;
+}
+
+h2{
+	font-size: 24px;
+}
+
+li{
+	display: inline-block;
+	width: 20%;
+	vertical-align: top;
+	margin:  70px -0.2%;
+	padding: 70px 20px;
+	list-style: none;
+	box-sizing:  border-box;
+	border:  2px solid #000000;
+	font-family: sans-serif;
+	text-align: left;
+
+}
+
+.amarelo{
+	background: #FF9900;
+	color: #FFFFFF;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-color: #FF9900;
+}
+
+.azul{
+	background: #009999;
+	color: #FFFFFF;
+	border-color: #009999;
+}
+
+.verde{
+	background: #006666;
+	color: #FFFFFF;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-color: #006666;
+}
+
+.suvs {
+	border-radius: 20px;
+	background: none;
+	color: #ffffff;
+	width: 160px;
+	height: 50px;
+	border-color: #FFFFFF;
+	margin: 25px 0 0 0;
+	cursor: pointer;
+}
+
+.luxury{
+	border-radius: 20px;
+	background: none;
+	color: #ffffff;
+	width: 160px;
+	height: 50px;
+	border-color: #FFFFFF;
+	margin: 25px 0 0 0;
+	cursor: pointer;
+}
+
+
+.sedans{
+	border-radius: 20px;
+	background: none;
+	color: #ffffff;
+	width: 160px;
+	height: 50px;
+	border-color: #FFFFFF;
+	margin: 25px 0 0 0;
+	cursor: pointer;
+}
+
+.section1{
+	margin:  80px -0.10%;
+
+}
+
+.carro-sedan{
+	width: 50%;
+	float: left;
+	box-shadow: 2px 2px 0px #FF9900;
+	margin: 0 15px 0 0;
+}
+
+.titulo1{
+	
+	color: #FF9900;
+	text-align: center;
+	display: inline-block;
+
+}
+
+.carro1{
+	color: #000000;
+	margin:  50px -0.10%;
+	text-align: justify;
+}
+
+.contato1{
+	border-radius: 20px;
+	background: #FF9900;
+	color: #ffffff;
+	width: 160px;
+	height: 50px;
+	border-color: #FF9900;
+	margin: 25px 0 0 0;
+	cursor: pointer;
+}
+
+
+
+.section2{
+	margin:  80px -0.10%;
+
+}
+
+.carro-luxury{
+	width: 50%;
+	float: left;
+	box-shadow: 2px 2px 0px #006666;
+	margin: 0 15px 0 0;
+}
+
+.titulo2{
+	
+	color: #006666;
+	text-align: center;
+	display: inline-block;
+
+}
+
+.carro2{
+	color: #000000;
+	margin:  50px -0.10%;
+	text-align: justify;
+}
+
+.contato2{
+	border-radius: 20px;
+	background: #006666;
+	color: #ffffff;
+	width: 160px;
+	height: 50px;
+	border-color: #006666;
+	margin: 25px 0 0 0;
+	cursor: pointer;
+}
+
+
+.section3{
+	margin:  80px -0.10%;
+
+}
+
+.carro-suvs{
+	width: 50%;
+	float: left;
+	box-shadow: 2px 2px 0px #009999;
+	margin: 0 15px 0 0;
+}
+
+.titulo3{
+	
+	color: #009999;
+	text-align: center;
+	display: inline-block;
+
+}
+
+.carro3{
+	color: #000000;
+	margin:  50px -0.10%;
+	text-align: justify;
+}
+
+.contato3{
+	border-radius: 20px;
+	background: #009999;
+	color: #ffffff;
+	width: 160px;
+	height: 50px;
+	border-color: #009999;
+	margin: 25px 0 0 0;
+	cursor: pointer;
+}
+
+
+.coded{
+	font-size: 10px;
+}
+
+form label, form p{
+	display: block;
+	font-size: 16px;
+	margin: 10px 0 10px;
+	padding: 30px 0 0 0;
+
+}
+
+.enviar{
+	width: 140px; 
+	padding: 10px 0; 
+	background: C5C7C4; 
+	font-weight: bold; 
+	font-size: 14px;
+	border-radius: 5px; 
+	cursor: pointer; 
+}
